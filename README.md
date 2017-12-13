@@ -1,7 +1,7 @@
 # Optimisation-of-solving-Norms
 4th year module in Practical Optimisation coursework for Cambridge University Engineering Department
 
-This code was for coursework on a 4th year module on practical optimisation. In particular, it dicusses the different approaches of tackling unconstrained optimisation problems. The objective is to approimate solution to norms using three different approaches (Gradient Descent, Conjugate Gradient and Newton). It discusses the effects of parameters of the theory by considering the efficiency (iterations and speed). It analayses the depence on epsilon on the convergence rate. Finally, it considers a heuristic approach to an optimisation problem with an additional constraint of sparsity. All the code provided in this document is written solely by me, by considering how the unconstrained problem can be described as a summation of Matrix algebra. 
+This code was for coursework on a 4th year module on practical optimisation. In particular, it dicusses the different approaches of tackling unconstrained optimisation problems. The objective is to approximate solutions to norms using three different approaches (Gradient Descent, Conjugate Gradient and Newton). It discusses the effects of parameters of the theory by considering the efficiency (iterations and speed). It analayses the depence on epsilon on the convergence rate. Finally, it considers a heuristic approach to an optimisation problem with an additional constraint of sparsity. All the code provided in this document is written solely by me, by considering how the unconstrained problem can be described as a summation of Matrix algebra. 
 
 # Code
 Functions
